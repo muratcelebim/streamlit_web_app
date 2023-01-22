@@ -1,7 +1,2 @@
-pandas==1.2.4
-plotly==5.2.1
-streamlit==0.82.0
-xgboost==1.4.2
-scikit-learn==0.24.2
-lightgbm==3.2.1
-catboost==1.0.0
+functions==0.7.0
+streamlit==1.17.0
