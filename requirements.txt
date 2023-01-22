@@ -1,2 +1,7 @@
-functions==0.7.0
+catboost==1.1.1
+numpy==1.19.5
+pandas==1.1.5
+plotly==5.12.0
+requests==2.27.1
+scikit_learn==1.2.0
 streamlit==1.17.0
